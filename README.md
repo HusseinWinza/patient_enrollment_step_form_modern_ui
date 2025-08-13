@@ -1,4 +1,4 @@
-# 🏥 Patient Enrollment Form — React + TailwindCSS
+# Patient Enrollment Form — React + TailwindCSS
 
 A modern, multi-step **Patient Enrollment Form** built with **React** and **TailwindCSS**, featuring a sleek **"shine" button effect ✨** for an engaging user experience.
 
